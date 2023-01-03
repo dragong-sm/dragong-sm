@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:AEEAF7,100:13C6E3&height=300&section=header&text=Sungmin's%20Github&fontSize=90&stroke=045878&strokeWidth=3&fontColor=045878)
-
-<div align=center>
-
-### 🛠 My skills 🛠
-
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/dragong-sm/Masinsa-Project)
+  
