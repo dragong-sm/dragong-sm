@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:699ffd,100:b4d5ff&height=300&section=header&text=Sungmin's%20Github&fontSize=90&stroke=fff&strokeWidth=3&fontColor=132a11)
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragong-sm&count_private=true&show_icons=true&theme=tokyonight)
+
   
