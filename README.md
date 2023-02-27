@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## 💻 FRONT-END ENGINEER 💻
 - 🤔 **사용자의 입장에서 소통하고자 노력합니다.**
 - ✨ **작업물이 화면에 보이는 것이 즐거워 시작하였습니다.**
-- 📚 **성장과 발전을 위해 열심히 공부하고 있습니다.**
   
 #### Main Skill
 - ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
