@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:699ffd,100:b4d5ff&height=300&section=header&text=Sungmin's%20Github&fontSize=90&stroke=fff&strokeWidth=3&fontColor=132a11)
 
 ## 💻 FRONT-END ENGINEER 💻
-- 🤔 **사용자의 입장에서 소통하고자 노력합니다.**
-- ✨ **작업물이 화면에 보이는 것이 즐거워 시작하였습니다.**
   
 #### Main Skill
 - ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
