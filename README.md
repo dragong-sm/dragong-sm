@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 
 #### Other Skill
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![AdobePhotoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
-
-#### Notion (공부 내용 정리 😊)
-- <a href="https://dragong-sm.notion.site/dragong-sm/Study-503d23a03ffe416eb236a7b7d5246970"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> </a>
