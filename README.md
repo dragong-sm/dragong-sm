@@ -7,7 +7,6 @@
   ##### 안녕하세요 🖐 프론트엔드 개발자 홍성민입니다 👻
   
   ##
-  <br/>
 
 ### ⚙️ Tech Stacks ⚙️
 
@@ -19,8 +18,6 @@
   ![PostCss](https://img.shields.io/badge/PostCss-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
   ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-   <br/>
-  
 ### 🎨 Design 🎨
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![AdobePhotoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 
