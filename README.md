@@ -16,7 +16,9 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)  
   ![StyledComponent](https://img.shields.io/badge/Styled-Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
   ![PostCss](https://img.shields.io/badge/PostCss-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)  
+  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+  ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
 ### 🎨 Design 🎨
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![AdobePhotoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
