@@ -1,10 +1,10 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?section=header&type=transparent&height=150&text=Sungmin's%20GitHub&fontSize=60&fontColor=008CCA&stroke=0057A1&strokeWidth=2&desc=Front-End%20Developer%20⌨️&descSize=28&descAlignY=80&descAlign=62)
+![header](https://capsule-render.vercel.app/api?section=header&type=transparent&height=150&text=Sungmin's%20GitHub&fontSize=60&fontColor=008CCA&stroke=0057A1&strokeWidth=2&desc=Designer%20⌨️&descSize=28&descAlignY=80&descAlign=62)
   
   ##
   
-  #### 안녕하세요 🖐 프론트엔드 개발자 홍성민입니다 👻
+  #### 안녕하세요 🖐 디자이너 홍성민입니다 👻
   
   ##
 
